@@ -27,7 +27,7 @@ To change the date format, select an option from the dropdown menu, and the disp
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: ` `
+1. Clone the repository: `https://github.com/jaganpofficial/Date-formatter.git`
 2. Open index.html in your preferred web browser.
 3. Begin to learn about the Date object!
    
