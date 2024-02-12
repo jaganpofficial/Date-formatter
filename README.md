@@ -1,4 +1,4 @@
-# Learn the Date Object by Building a Date Formatter
+#  Date Object by Building a Date Formatter
 
 This project focuses on utilizing the JavaScript Date object to build a simple Date Formatter web application.
 
